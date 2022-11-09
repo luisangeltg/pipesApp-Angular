@@ -10,11 +10,15 @@ Pipes:
 1. ## TitleCasePipe
 - Example: hEllo wOrld
 - Result: Hello World
+
 Reference: https://angular.io/api/common/TitleCasePipe
+
 2. ## UpperCasePipe
 - Example: Hello World
 - Result: HELLO WORLD
+
 Reference: https://angular.io/api/common/UpperCasePipe
+
 3. ## LowerCasePipe
 - Example: Hello World
 - Result: hello world
@@ -22,28 +26,44 @@ Reference: https://angular.io/api/common/UpperCasePipe
 Reference: https://angular.io/api/common/LowerCasePipe
 
 4. ## DatePipe
-This has different types to format. Reference:  https://angular.io/api/common/DatePipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/DatePipe
 
 5. ## DecimalPipe
-This has different types to format. Reference:  https://angular.io/api/common/DecimalPipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/DecimalPipe
 
 6. ## PercentPipe
-- This has different types to format. Reference:  https://angular.io/api/common/PercentPipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/PercentPipe
 
 7. ## CurrencyPipe
-- This has different types to format. Reference:  https://angular.io/api/common/CurrencyPipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/CurrencyPipe
 
 8. ## i18nSelectPipe
-- This has different types to format. Reference:  https://angular.io/api/common/i18nSelectPipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/i18nSelectPipe
 
 9. ## i18nPluralPipe
-This has different types to format. Reference:  https://angular.io/api/common/i18nPluralPipe
+This has different types to format. 
+
+Reference:  https://angular.io/api/common/i18nPluralPipe
 
 10. ## AsyncPipe
-This Pipe shows the result of an Observable or Promisse object in the navigator page easely. Reference:  https://angular.io/api/common/AsyncPipe
+This Pipe shows the result of an Observable or Promisse object in the navigator page easely.
+
+Reference:  https://angular.io/api/common/AsyncPipe
 
 11. ## JsonPipe
-This Pipe shows in the navigator page the result of an Json Object in an easy way. Reference:  https://angular.io/api/common/AsyncPipe
+This Pipe shows in the navigator page the result of an Json Object in an easy way. 
+
+Reference:  https://angular.io/api/common/AsyncPipe
 
 ## Development server
 
