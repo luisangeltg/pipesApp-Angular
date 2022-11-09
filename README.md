@@ -5,8 +5,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Description
 
 This project it's a example to learn how to use basic Angular pipes and how to work with PrimeNg modules, components and templates.
+# PrimeNg Components used in this project
+1. ButtonModule
+2. CardModule
+3. MenubarModule
+4. FieldsetModule
 
-Pipes:
+# Pipes:
 1. ## TitleCasePipe
 - Example: hEllo wOrld
 - Result: Hello World
